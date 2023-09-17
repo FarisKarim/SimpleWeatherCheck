@@ -8,4 +8,7 @@ Enter your API Key from https://openweathermap.org/api
 
 In the project directory, you can run:
 
+## Demo
+https://faris-simple-weather-app.vercel.app/
+
 ### `npm start`
