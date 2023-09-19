@@ -11,5 +11,6 @@ In the project directory, you can run:
 ### `npm start`
 
 ## Demo
-https://faris-simple-weather-app.vercel.app/
+
+https://faris-weather.vercel.app/
 
